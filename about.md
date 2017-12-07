@@ -1,9 +1,28 @@
 ---
-title: About me
+layout: page
+title: About
+date:   2017-12-02 13:03:59
+permalink: /about/
 ---
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Donec elementum ligula eu sapien consequat eleifend.
+<p><h2>활동</h2></p>
+<p>지금은 접었지만 한 때 반에서 유명인세를 받던 인물 중 하나였으니... 
+그가 하는 활동 중에는 <b>유튜브와 블로깅</b>이었다.</p>
 
-Donec nec dolor erat, condimentum sagittis sem. Praesent porttitor porttitor risus, dapibus rutrum ipsum gravida et. Integer lectus nisi, facilisis sit amet eleifend nec, pharetra ut augue. Integer quam nunc, consequat nec egestas ac, volutpat ac nisi.
+<p><a href="https://www.youtube.com/channel/UCWSMygIRyrcQDR6ivbJkp1w">Unirob 유튜브 채널 (YT카이지)</a><br><a href="https://blog.naver.com/zkem70">Unirob 네이버 블로그</a></p><br>
+<h2>소개</h2><br>
 
-Find me on [GitHub](https://github.com/muan) or [Twitter](https://twitter.com/muanchiou).
+<p><del>뭔가 목차가 서로 바뀌어야 할 것만 같지만 아니다. 필자 마음이다.</del></p><br>
+
+<p><h3>블로그를 만들게 된 스토리</h3></p>
+
+<p>평소에 하고 싶은 것이나 취미 등을 스스로 찾아야 할 나이다. 하지만
+그닥 할 것도 없었다. 그렇게 몇 개월이 지나고 나서 웹 프로그래밍에 대해서 생각을 해보았다. 
+난 그냥 포기하였지만, 계속에서 드는 관심과 생각에 의해 결국은 결심하게 되었다. 
+그렇게 한 사람에게 도움을 받고, 강좌를 보고 들어왔다.
+	해당 블로그의 개설 목적은 다음과 같다.</p>
+
+<p><li>심심해서</li>
+	<li>그냥</li>
+	<li>할 게 없어서</li></p><br><br>
+About 카테고리는 추후에 완전히 업데이트 될 수도 있다.

@@ -1,22 +1,14 @@
-# ----------- CONFIGURABLE START -----------
-title:            "Scribble"
-description:      "Such theme, very cool."
-url:              http://scribble.muan.co # Site url, without a slash at the end.
-signoff:          "muan" # Your name
-facebook_appid:   # APP ID for like button, remove from /_includes/share.html if unwanted.
-google_analytics: # Set tracking, remove from /javascripts/basic.js if unwanted.
-share:            false # Turn on twitter and facebook share buttons
+# Site settings
+title: Unirob
+motto: I'm korean. Here is Unirob's shitty blog.
+email: zkem70@naver.com
+description: > # this means to ignore newlines until "baseurl:"
+  Hello. I'm Unirob! welcome to my shitty blog.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://unirob.ga" # the base hostname & protocol for your site
+youtube_username: https://www.youtube.com/channel/UCWSMygIRyrcQDR6ivbJkp1w
+github_username: github.com/Unirob79/Unirob79.github.io/
 
-links:
-  - name:         Posts
-    url:          /
-    external:     false
-  - name:         About me
-    url:          /about
-    external:     false
-# ------------ CONFIGURABLE END ------------
-
-permalink:        /posts/:title
-defaults:
-  - values:
-      layout: "default"
+# Build settings
+markdown: kramdown
+permalink: /:title/

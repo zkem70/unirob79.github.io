@@ -1,0 +1,68 @@
+<header class="header">
+	<div class="header-container">
+		<div class="nav">
+			{% if page.path == "index.html" %}
+			<span class="title">
+				<li>
+					<a href="http://unirob.ga">home</a>
+				</li>
+			</span>			
+			{% else %}
+				<li>
+					<a href="http://unirob.ga">home</a>
+				</li>			
+			{% endif %}
+			{% if page.path == "archive.html" %}
+			<span class="title">
+				<li>
+					<a href="/archive/">archive</a>
+				</li>
+			</span>			
+			{% else %}
+				<li>
+					<a href="/archive/">archive</a>
+				</li>			
+			{% endif %}
+			{% if page.path == "category.html" %}
+			<span class="title">
+				<li>
+					<a href="/tags/">tags</a>
+				</li>
+			</span>			
+			{% else %}
+				<li>
+					<a href="/tags/">tags</a>
+				</li>			
+			{% endif %}
+			{% if page.path == "about.html" %}
+			<span class="title">
+				<li>
+					<a href="/about/">about</a>
+				</li>
+			</span>			
+			{% else %}
+				<li>
+					<a href="/about/">about</a>
+				</li>			
+			{% endif %}
+		</div>
+		<div class="description"> {{ site.motto }} </div>		
+		<ul class="social-links">
+			<li>
+				<a href="https://github.com/Unirob79/Unirob79.github.io" title="Github">
+					<img width="19px" height="19px" src="/images/github.png"/>
+				</a>
+			</li>
+			<li>
+				<a href="/feed.xml" title="RSS">
+					<img width="19px" height="19px" src="/images/rss.png"/>
+				</a>
+			</li>
+			<li>
+				<a href="https://www.youtube.com/channel/UCWSMygIRyrcQDR6ivbJkp1w" title="YouTube">
+					<img width="23px" height="19px" src="/images/youtube.png"/>
+				</a>
+			</li>
+		</ul>
+	</div>
+</header>
