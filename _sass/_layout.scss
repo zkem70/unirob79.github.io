@@ -211,3 +211,16 @@ button:hover {
 			color: white;
 			cursor: pointer;
 		}
+button-tag {
+	border-color: #515865;
+	cursor: pointer;
+	color: #515865;
+	background-color: white;
+	border-radius: 20px;
+	-webkit-transition: background-color 0.5s;
+}
+button-tag:hover {
+	background-color: #515865;
+	color: white;
+	cursor: pointer;
+	}
