@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="well">
-<button type="button" class="tag" onclick="location.href='unirobfrefgrg'">Tags</button>
+<button type="button" class="tag" onclick="location.href='{% capture categories %}{% for category in site.categories %}'">Tags</button>
 {% capture categories %}{% for category in site.categories %}{{ category | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
 {% assign category = categories | split:',' | sort %}
 {% for item in (0..site.categories.size) %}{% unless forloop.last %}
