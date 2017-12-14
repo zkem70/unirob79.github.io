@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "갑자기 만화 연재를 하고 싶다는 생각이 드네"
-date:   2017-12-02 13:18:32
-categories: rate
+date:   2017-12-13 17:39:32
+categories: chat
 ---
 
 개뜬금없다. 만화나 그려볼까? 내가 만약에 만화를 그린다면, 
